@@ -43,7 +43,7 @@
 	<label>Course & Section:</label>
 	<input type="text" name="course&section" class="form-control">
 </div>
-
+<br>
 <button type="button">Submit</button>
 
 </html>
